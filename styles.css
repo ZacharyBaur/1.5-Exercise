@@ -1,0 +1,28 @@
+body {
+    background-color: grey;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#title {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 0px;
+    font-size: 35pt;
+}
+
+#description {
+    text-align: center;
+    font-size: 15pt;
+}
+
+#image {
+    text-align: center;
+}
+
+#earthImg {
+    font-size: 100pt;
+}
+
+#moonImg {
+    font-size: 60pt;
+}
