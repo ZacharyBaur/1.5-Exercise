@@ -15,14 +15,20 @@ body {
     font-size: 15pt;
 }
 
+.desc-3 {
+    list-style-position: inside;
+    padding-left: 0;
+}
+
 #image {
     text-align: center;
+    padding-top: 50px;
 }
 
 #earthImg {
-    font-size: 100pt;
+    font-size: 150pt;
 }
 
 #moonImg {
-    font-size: 60pt;
+    font-size: 50pt;
 }
